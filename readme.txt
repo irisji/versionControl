@@ -1,0 +1,1 @@
+The project aims to simulate various senarios of version control. 
